@@ -4,7 +4,7 @@
   --color-border: #9b9b9b;
 }
 
-.placeList {
+.keywordList {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
